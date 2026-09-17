@@ -1,0 +1,15 @@
+# Redis data files (never commit real data)
+*.rdb
+*.aof
+appendonlydir/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
